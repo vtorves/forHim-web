@@ -6,6 +6,7 @@
     "react-scripts": "1.0.17"
   },
   "dependencies": {
+    "normalize.css": "^7.0.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
@@ -15,7 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-    "author": {
+  "author": {
     "name": "Vinicius Torves",
     "email": "vinicius@torves.com"
   }
